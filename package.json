@@ -1,6 +1,6 @@
 {
   "name": "@lasercat/component-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A template for react-typescript components",
   "author": "Ryland Goldstein",
   "license": "MIT",
